@@ -19,7 +19,7 @@ If you are looking for feature that does not yet exist in SMAC3, we are happy to
 - why you need it and
 - how it should work.
 
-If you already know how to implement the feature, please create a pull request. Please see the [Pull request](#pull-requests) section, to read further details on pull requests.
+If you already know how to implement the feature, please create a pull request. Please see the [Pull request](#pull-requests) section, to read further details on pull .
 
 ## <a name="report-bugs"></a> Report Bugs
 
